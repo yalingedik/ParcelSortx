@@ -24,7 +24,7 @@ public class DestinationSorter {
     public DestinationSorter() {
         root = null;
     }
-
+asdas
     // 🟢 Parcel ekleme
     public void insertParcel(Parcel parcel) {
         root = insertParcelRecursive(root, parcel);
